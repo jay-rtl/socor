@@ -4,7 +4,9 @@ A separate static recreation. SOCOR’s original domain and hosting have not bee
 
 ## GitHub Pages
 
-Published separately at https://jay-rtl.github.io/socor/ using the `main` branch and `/docs` directory.
+GitHub Pages target: https://jay-rtl.github.io/socor/ using the `main` branch and `/docs` directory.
+
+The source and deployable build are uploaded. Pages enablement is pending: the connected GitHub integration returned HTTP 403, `Resource not accessible by integration`, when enabling Pages. A repository owner must open Settings → Pages, select **Deploy from a branch**, choose **main** and **/docs**, then save. The target URL is not confirmed live until that deployment succeeds.
 
 Run `npm run build:pages` after source changes, then commit both source and `docs/`. The build rewrites local absolute URLs for the `/socor/` base path. The default `npm run build` still produces root-hosted output in `dist/`.
 
