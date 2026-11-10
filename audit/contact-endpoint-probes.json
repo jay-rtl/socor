@@ -1,0 +1,101 @@
+[
+  {
+    "method": "GET",
+    "request_headers": {},
+    "status": 400,
+    "headers": {
+      "date": "Tue, 10 Nov 2026 17:53:44 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "vary": "Accept-Encoding",
+      "x-powered-by": "PHP/8.1.34",
+      "x-robots-tag": "noindex",
+      "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+      "cache-control": "no-cache, must-revalidate, max-age=0, no-store, private",
+      "x-litespeed-cache-control": "no-cache",
+      "platform": "hostinger",
+      "panel": "hpanel",
+      "content-security-policy": "upgrade-insecure-requests",
+      "server": "envoy",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-hcdn-request-id": "6d48401eeefc6edf792e256b362c2336-bos-edge12",
+      "x-envoy-upstream-service-time": "1084",
+      "connection": "close",
+      "transfer-encoding": "chunked"
+    },
+    "body": "0"
+  },
+  {
+    "method": "OPTIONS",
+    "request_headers": {},
+    "status": 403,
+    "headers": {
+      "date": "Tue, 10 Nov 2026 17:53:45 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "content-length": "0",
+      "x-powered-by": "PHP/8.1.34",
+      "x-litespeed-tag": "e16_HTTP.403",
+      "x-litespeed-cache-control": "no-cache",
+      "platform": "hostinger",
+      "panel": "hpanel",
+      "content-security-policy": "upgrade-insecure-requests",
+      "server": "envoy",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-hcdn-request-id": "63dcc9df23f3c198fa639460ad45b50f-bos-edge12",
+      "x-envoy-upstream-service-time": "895",
+      "connection": "close"
+    },
+    "body": ""
+  },
+  {
+    "method": "OPTIONS",
+    "request_headers": {
+      "Origin": "http://localhost:3000",
+      "Access-Control-Request-Method": "POST"
+    },
+    "status": 403,
+    "headers": {
+      "date": "Tue, 10 Nov 2026 17:53:46 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "content-length": "0",
+      "x-powered-by": "PHP/8.1.34",
+      "x-litespeed-tag": "e16_HTTP.403",
+      "x-litespeed-cache-control": "no-cache",
+      "platform": "hostinger",
+      "panel": "hpanel",
+      "content-security-policy": "upgrade-insecure-requests",
+      "server": "envoy",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-hcdn-request-id": "23df2651ab4870ec91aeb6b76a89d6c5-bos-edge13",
+      "x-envoy-upstream-service-time": "1109",
+      "connection": "close"
+    },
+    "body": ""
+  },
+  {
+    "method": "GET",
+    "request_headers": {
+      "Origin": "http://localhost:3000"
+    },
+    "status": 400,
+    "headers": {
+      "date": "Tue, 10 Nov 2026 17:53:48 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "vary": "Accept-Encoding",
+      "x-powered-by": "PHP/8.1.34",
+      "x-robots-tag": "noindex",
+      "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+      "cache-control": "no-cache, must-revalidate, max-age=0, no-store, private",
+      "x-litespeed-cache-control": "no-cache",
+      "platform": "hostinger",
+      "panel": "hpanel",
+      "content-security-policy": "upgrade-insecure-requests",
+      "server": "envoy",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-hcdn-request-id": "d26bd22a68fdc10c02b154a9948385f9-bos-edge13",
+      "x-envoy-upstream-service-time": "1059",
+      "connection": "close",
+      "transfer-encoding": "chunked"
+    },
+    "body": "0"
+  }
+]

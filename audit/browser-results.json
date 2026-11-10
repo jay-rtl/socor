@@ -1,0 +1,17 @@
+{
+  "checks": [
+    "11 desktop routes, active states, direct reloads, metadata and page width",
+    "16 unique internal link destinations return HTTP 200",
+    "5 original URLs redirect to implemented pages",
+    "Project category filters; keyboard gallery opening, Escape and focus restoration",
+    "Equipment search, no-results state and reset across 42 rows",
+    "All 11 routes at 834px; mobile keyboard menu/history/sticky header where applicable",
+    "All 11 routes at 390px; mobile keyboard menu/history/sticky header where applicable",
+    "All 11 routes at 320px; mobile keyboard menu/history/sticky header where applicable",
+    "Reduced motion: no image reveal, page entrance or smooth scrolling",
+    "Contact required fields, service prefill, email draft encoding, explicit unsent state and edit invalidation; zero AJAX requests",
+    "Keyboard skip link"
+  ],
+  "axe_violations": [],
+  "js_errors": []
+}

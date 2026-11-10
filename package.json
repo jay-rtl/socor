@@ -1,0 +1,13 @@
+{
+  "name": "socor-redesign",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 serve.py",
+    "build": "python3 build.py",
+    "lint": "node --check app.js",
+    "test": "python3 verify.py",
+    "test:browser": "python3 browser_verify.py",
+    "build:pages": "python3 build.py --base-path /socor --output docs"
+  }
+}
